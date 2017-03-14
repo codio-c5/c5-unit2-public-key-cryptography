@@ -1,0 +1,218 @@
+{
+ "sections": [
+  {
+   "id": "73918059-8178-f30b-409d-ec09177ed557",
+   "title": "Learning Objectives",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Learning-Objectives-7391.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8a9daa3c-ac6e-7eaf-fb6f-c83e99667173",
+   "title": "Recall: Cryptography",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recall--Cryptography-8a9d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e513d6fa-0e64-1f8e-07d5-521b2b7977f0",
+   "title": "Recall: Cryptography and the Main Tenets of Information Security",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recall--Cryptography-and-the-Main-Tenets-of-Information-Security-e513.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "26868c95-c8f8-bd9d-f065-288e0a9b3ef9",
+   "title": "Recall: Symmetric Key Cryptography",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recall--Symmetric-Key-Cryptography-2686.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "78aa1d12-3bae-6afe-b168-d9266473731e",
+   "title": "Recall Problem of Key Distribution and Management",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recall-Problem-of-Key-Distribution-and-Management-78aa.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "241d3e5b-0744-1730-2895-596283ec2794",
+   "title": "Public Key Cryptography",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Public-Key-Cryptography-241d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0e277740-f0ff-e2c9-ec58-71a640549027",
+   "title": "Solutions for Key Distribution",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Solutions-for-Key-Distribution-0e27.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "11956302-99b7-ce9a-154c-15126a591154",
+   "title": "Asymmetric Encryption/Decryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Asymmetric-Encryption-Decryption-1195.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a47a95c1-ff1a-3066-521d-097d8352c8f4",
+   "title": "Advantage of Asymmetric Encryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Advantage-of-Asymmetric-Encryption-a47a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3e9b18e1-c279-2bbd-4207-8bde9410469a",
+   "title": "Examples of Asymmetric Encryption Algorithms",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Examples-of-Asymmetric-Encryption-Algorithms-3e9b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "901efc87-5f99-1102-e418-e1cf3e0ebc47",
+   "title": "A Glimpse of the RSA Encryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/A-Glimpse-of-the-RSA-Encryption-901e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "72971887-685d-e8a8-4aa3-6c54a98e4811",
+   "title": "One Problem: Authentication",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/One-Problem--Authentication-7297.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fcf70318-b15c-4728-83fd-ee528f421e81",
+   "title": "Key Agreement (Exchange) Protocols",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Key-Agreement--Exchange--Protocols-fcf7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ba0ea037-8a5d-0423-7ec5-632dff8fbcc6",
+   "title": "Key Agreement Protocols",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Key-Agreement-Protocols-ba0e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fcd52ccd-55e5-8a35-c474-e16cf08a0f03",
+   "title": "Key Agreement",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Key-Agreement-fcd5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c145b6fa-11af-2fed-e11e-6a6b699a5012",
+   "title": "Examples of Key Agreement Schemes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Examples-of-Key-Agreement-Schemes-c145.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "41d21b58-31a7-8dad-b4c5-b1e1ae5c8de0",
+   "title": "Use of Key Agreement Protocols",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Use-of-Key-Agreement-Protocols-41d2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "875f6c8a-c86e-c5a3-2781-452576c65d75",
+   "title": "Man in the Middle (MITM) Attack",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Man-in-the-Middle--MITM--Attack-875f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "51ee4649-9563-85e8-b137-7c9a7384fac8",
+   "title": "Another Problem: Integrity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Another-Problem--Integrity-51ee.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "hideMenu": false
+}
