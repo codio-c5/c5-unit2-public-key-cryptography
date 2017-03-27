@@ -15,4 +15,3 @@ Now consider a simple protocol that makes use of the Diffie-Hellman calculation.
 - Both users can now calculate the key. 
 - The necessary public values q and a would need to be known ahead of time. 
 - Alternatively, user A could pick values for q and a and include those in the first message. 
-|||

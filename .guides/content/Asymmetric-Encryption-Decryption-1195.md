@@ -10,4 +10,3 @@ Note that no communication is necessary beforehand to agree on a shared secret k
 - Sender = Alice
 - Recipient = Bob
 Contrast this with the Symmetric Key diagram.
-|||
